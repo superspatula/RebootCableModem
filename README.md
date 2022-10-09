@@ -1,5 +1,5 @@
 # RebootCableModem
- Automate rebooting a Netgear CM600 (and probably others) modem with MacOS Calendar event
+ Automate rebooting a Netgear CM600 (and probably others) cable modem with MacOS Calendar event
 
 # Steps
 1. Open Automator
