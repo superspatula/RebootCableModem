@@ -4,7 +4,7 @@
 # Steps
 1. Open Automator
 2. Select Utilities and then double-click "Run Shell Script"
-3. Paste in the script
+3. Paste in the RebootCableModem.workflow bash/zsh script
 4. Modify username/password if needed
 5. File -> Save...: select Workflow type, name file RebootCableModem.workflow
 6. File -> Save...: select Application type, name file RebootCableModem.app
