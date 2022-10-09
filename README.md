@@ -11,7 +11,7 @@
 7. File -> Save...: select Application type, name file RebootCableModem.app
 8. Open Calendar
 9. New Event
-10. <select your schedule>
+10. [choose your schedule]
 11. Set Alert:
 12.   - Custom
 13.   - Open File
