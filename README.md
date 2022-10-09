@@ -16,5 +16,5 @@
 12.   - Custom
 13.   - Open File
 13.   - Other...
-14.   - <choose RebootCableModem.app>
+14.   - [choose RebootCableModem.app]
 15.   - OK
